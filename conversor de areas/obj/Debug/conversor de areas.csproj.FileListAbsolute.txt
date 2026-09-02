@@ -1,0 +1,5 @@
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\conversor de areas\obj\Debug\conversor de areas.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\conversor de areas\obj\Debug\conversor_de_areas.frmConversorArea.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\conversor de areas\obj\Debug\conversor_de_areas.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\conversor de areas\obj\Debug\conversor de areas.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\conversor de areas\obj\Debug\conversor de areas.csproj.CoreCompileInputs.cache

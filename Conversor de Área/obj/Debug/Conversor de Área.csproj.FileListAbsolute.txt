@@ -1,0 +1,10 @@
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\bin\Debug\Conversor de Área.exe.config
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\bin\Debug\Conversor de Área.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\bin\Debug\Conversor de Área.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor de Área.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor_de_Área.frmConversorArea.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor_de_Área.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor de Área.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor de Área.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor de Área.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Conversor de Área\obj\Debug\Conversor de Área.pdb
