@@ -1,0 +1,10 @@
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\bin\Debug\AppExamenParcial.exe.config
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\bin\Debug\AppExamenParcial.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\bin\Debug\AppExamenParcial.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.frmImpuesto.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\AppExamenParcial\obj\Debug\AppExamenParcial.pdb
