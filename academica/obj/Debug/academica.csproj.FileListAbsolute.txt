@@ -1,0 +1,12 @@
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\bin\Debug\db_academica.mdf
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\bin\Debug\db_academica_log.ldf
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\bin\Debug\academica.exe.config
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\bin\Debug\academica.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\bin\Debug\academica.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.Form1.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\academica\obj\Debug\academica.pdb
