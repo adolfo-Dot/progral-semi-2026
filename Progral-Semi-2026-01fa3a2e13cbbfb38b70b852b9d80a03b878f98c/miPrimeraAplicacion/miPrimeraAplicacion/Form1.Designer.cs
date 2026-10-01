@@ -69,7 +69,7 @@
             this.grbDatosAlumno.Controls.Add(this.txtCodigoAlumno);
             this.grbDatosAlumno.Controls.Add(this.lblCodigo);
             this.grbDatosAlumno.Enabled = false;
-            this.grbDatosAlumno.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grbDatosAlumno.Font = new System.Drawing.Font("Verdana", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grbDatosAlumno.Location = new System.Drawing.Point(42, 16);
             this.grbDatosAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grbDatosAlumno.Name = "grbDatosAlumno";
@@ -84,16 +84,16 @@
             this.txtEmailAlumno.Location = new System.Drawing.Point(111, 330);
             this.txtEmailAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtEmailAlumno.Name = "txtEmailAlumno";
-            this.txtEmailAlumno.Size = new System.Drawing.Size(536, 34);
+            this.txtEmailAlumno.Size = new System.Drawing.Size(536, 35);
             this.txtEmailAlumno.TabIndex = 9;
             // 
             // lblEmail
             // 
             this.lblEmail.AutoSize = true;
-            this.lblEmail.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.lblEmail.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblEmail.Location = new System.Drawing.Point(36, 338);
             this.lblEmail.Name = "lblEmail";
-            this.lblEmail.Size = new System.Drawing.Size(63, 22);
+            this.lblEmail.Size = new System.Drawing.Size(68, 22);
             this.lblEmail.TabIndex = 8;
             this.lblEmail.Text = "Email:";
             // 
@@ -102,7 +102,7 @@
             this.txtTelefonoAlumno.Location = new System.Drawing.Point(111, 277);
             this.txtTelefonoAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtTelefonoAlumno.Name = "txtTelefonoAlumno";
-            this.txtTelefonoAlumno.Size = new System.Drawing.Size(172, 34);
+            this.txtTelefonoAlumno.Size = new System.Drawing.Size(172, 35);
             this.txtTelefonoAlumno.TabIndex = 7;
             // 
             // txtDireccionAlumno
@@ -119,36 +119,36 @@
             this.txtNombreAlumno.Location = new System.Drawing.Point(111, 100);
             this.txtNombreAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtNombreAlumno.Name = "txtNombreAlumno";
-            this.txtNombreAlumno.Size = new System.Drawing.Size(559, 34);
+            this.txtNombreAlumno.Size = new System.Drawing.Size(559, 35);
             this.txtNombreAlumno.TabIndex = 5;
             // 
             // lblTelefono
             // 
             this.lblTelefono.AutoSize = true;
-            this.lblTelefono.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.lblTelefono.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTelefono.Location = new System.Drawing.Point(18, 284);
             this.lblTelefono.Name = "lblTelefono";
-            this.lblTelefono.Size = new System.Drawing.Size(85, 22);
+            this.lblTelefono.Size = new System.Drawing.Size(93, 22);
             this.lblTelefono.TabIndex = 4;
             this.lblTelefono.Text = "Teléfono:";
             // 
             // lblDireccion
             // 
             this.lblDireccion.AutoSize = true;
-            this.lblDireccion.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.lblDireccion.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDireccion.Location = new System.Drawing.Point(18, 164);
             this.lblDireccion.Name = "lblDireccion";
-            this.lblDireccion.Size = new System.Drawing.Size(94, 22);
+            this.lblDireccion.Size = new System.Drawing.Size(101, 22);
             this.lblDireccion.TabIndex = 3;
             this.lblDireccion.Text = "Dirección:";
             // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.lblNombre.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNombre.Location = new System.Drawing.Point(18, 100);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(81, 22);
+            this.lblNombre.Size = new System.Drawing.Size(90, 22);
             this.lblNombre.TabIndex = 2;
             this.lblNombre.Text = "Nombre:";
             // 
@@ -157,17 +157,17 @@
             this.txtCodigoAlumno.Location = new System.Drawing.Point(111, 35);
             this.txtCodigoAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtCodigoAlumno.Name = "txtCodigoAlumno";
-            this.txtCodigoAlumno.Size = new System.Drawing.Size(244, 34);
+            this.txtCodigoAlumno.Size = new System.Drawing.Size(244, 35);
             this.txtCodigoAlumno.TabIndex = 1;
             this.txtCodigoAlumno.TextChanged += new System.EventHandler(this.txtCodigoAlumno_TextChanged);
             // 
             // lblCodigo
             // 
             this.lblCodigo.AutoSize = true;
-            this.lblCodigo.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCodigo.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCodigo.Location = new System.Drawing.Point(18, 35);
             this.lblCodigo.Name = "lblCodigo";
-            this.lblCodigo.Size = new System.Drawing.Size(74, 22);
+            this.lblCodigo.Size = new System.Drawing.Size(80, 22);
             this.lblCodigo.TabIndex = 0;
             this.lblCodigo.Text = "Código:";
             // 
@@ -178,7 +178,7 @@
             this.grbNavegacionAlumno.Controls.Add(this.btnUltimoAlumno);
             this.grbNavegacionAlumno.Controls.Add(this.btnAnteriorAlumno);
             this.grbNavegacionAlumno.Controls.Add(this.btnPrimeroAlumno);
-            this.grbNavegacionAlumno.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grbNavegacionAlumno.Font = new System.Drawing.Font("Verdana", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grbNavegacionAlumno.Location = new System.Drawing.Point(42, 417);
             this.grbNavegacionAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grbNavegacionAlumno.Name = "grbNavegacionAlumno";
@@ -191,10 +191,10 @@
             // lblnRegistrosAlumno
             // 
             this.lblnRegistrosAlumno.AutoSize = true;
-            this.lblnRegistrosAlumno.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.lblnRegistrosAlumno.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblnRegistrosAlumno.Location = new System.Drawing.Point(159, 72);
             this.lblnRegistrosAlumno.Name = "lblnRegistrosAlumno";
-            this.lblnRegistrosAlumno.Size = new System.Drawing.Size(63, 22);
+            this.lblnRegistrosAlumno.Size = new System.Drawing.Size(68, 22);
             this.lblnRegistrosAlumno.TabIndex = 9;
             this.lblnRegistrosAlumno.Text = "Email:";
             // 
@@ -255,7 +255,7 @@
             this.grbEdicionAlumno.Controls.Add(this.btnEliminarAlumno);
             this.grbEdicionAlumno.Controls.Add(this.btnModificarAlumno);
             this.grbEdicionAlumno.Controls.Add(this.btnAgregarAlumno);
-            this.grbEdicionAlumno.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.grbEdicionAlumno.Font = new System.Drawing.Font("Verdana", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grbEdicionAlumno.Location = new System.Drawing.Point(484, 417);
             this.grbEdicionAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.grbEdicionAlumno.Name = "grbEdicionAlumno";
@@ -267,7 +267,7 @@
             // 
             // btnEliminarAlumno
             // 
-            this.btnEliminarAlumno.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.btnEliminarAlumno.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminarAlumno.Location = new System.Drawing.Point(407, 39);
             this.btnEliminarAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnEliminarAlumno.Name = "btnEliminarAlumno";
@@ -279,7 +279,7 @@
             // 
             // btnModificarAlumno
             // 
-            this.btnModificarAlumno.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.btnModificarAlumno.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnModificarAlumno.Location = new System.Drawing.Point(204, 39);
             this.btnModificarAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnModificarAlumno.Name = "btnModificarAlumno";
@@ -291,7 +291,7 @@
             // 
             // btnAgregarAlumno
             // 
-            this.btnAgregarAlumno.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            this.btnAgregarAlumno.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarAlumno.Location = new System.Drawing.Point(5, 39);
             this.btnAgregarAlumno.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAgregarAlumno.Name = "btnAgregarAlumno";
@@ -305,7 +305,7 @@
             // 
             this.groupBox1.Controls.Add(this.grdAlumnos);
             this.groupBox1.Controls.Add(this.txtBuscarAlumnos);
-            this.groupBox1.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Font = new System.Drawing.Font("Verdana", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(728, 16);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
@@ -331,7 +331,7 @@
             this.txtBuscarAlumnos.Location = new System.Drawing.Point(5, 35);
             this.txtBuscarAlumnos.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtBuscarAlumnos.Name = "txtBuscarAlumnos";
-            this.txtBuscarAlumnos.Size = new System.Drawing.Size(578, 34);
+            this.txtBuscarAlumnos.Size = new System.Drawing.Size(578, 35);
             this.txtBuscarAlumnos.TabIndex = 1;
             this.txtBuscarAlumnos.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtBuscarAlumnos_KeyUp);
             // 
