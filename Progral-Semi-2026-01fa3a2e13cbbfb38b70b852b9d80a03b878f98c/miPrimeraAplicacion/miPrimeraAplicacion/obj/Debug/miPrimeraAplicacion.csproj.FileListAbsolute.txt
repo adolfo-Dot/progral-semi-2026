@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.Form1.resources
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\dbacademica.mdf
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\dbacademica_log.ldf
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe.config
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.pdb
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.exe
+C:\Users\Admin\Desktop\Progral-Semi-2026\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\dbacademica.mdf
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\dbacademica_log.ldf
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe.config
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\bin\Debug\miPrimeraAplicacion.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.Form1.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.exe
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.pdb

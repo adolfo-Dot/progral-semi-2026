@@ -77,6 +77,7 @@
             this.grdAlumnos.Name = "grdAlumnos";
             this.grdAlumnos.Size = new System.Drawing.Size(438, 245);
             this.grdAlumnos.TabIndex = 8;
+            this.grdAlumnos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grdAlumnos_CellClick);
             // 
             // txtTelefonoAlumno
             // 

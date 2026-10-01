@@ -177,7 +177,7 @@ namespace miPrimeaAplicacion
                  "Eliminando alumnos", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 // Obtenemos el ID real del registro actual seleccionado
-                string idActual = objDt.Rows[posicion]["idAlumno"].ToString();
+                string idActual = grdAlumnos.CurrentRow.Cells["id"].Value.ToString();
                 String respuesta = objCOnexion.administrarDatosAlumnos(
                     new String[] { idActual, "", "", "", "" }, "eliminar"
                 );
