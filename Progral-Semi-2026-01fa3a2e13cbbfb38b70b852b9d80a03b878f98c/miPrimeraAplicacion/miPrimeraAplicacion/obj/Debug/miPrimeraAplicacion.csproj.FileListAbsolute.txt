@@ -22,3 +22,4 @@ C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa
 C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.csproj.CoreCompileInputs.cache
 C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.exe
 C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.pdb
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\Progral-Semi-2026-01fa3a2e13cbbfb38b70b852b9d80a03b878f98c\miPrimeraAplicacion\miPrimeraAplicacion\obj\Debug\miPrimeraAplicacion.frmprincipal.resources
