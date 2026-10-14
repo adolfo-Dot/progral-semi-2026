@@ -33,5 +33,10 @@ namespace miPrimeraAplicacion
             objAlumnos.MdiParent = this;
             objAlumnos.Show();
         }
+
+        private void materiasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
