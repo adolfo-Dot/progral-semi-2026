@@ -1,0 +1,35 @@
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\appsettings.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\prueba app 1.staticwebassets.endpoints.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\prueba app 1.exe
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\prueba app 1.deps.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\prueba app 1.runtimeconfig.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\prueba app 1.dll
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\prueba app 1.pdb
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.AssemblyInfoInputs.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.AssemblyInfo.cs
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.sourcelink.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\scopedcss\bundle\prueba app 1.styles.css
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba a.1FC68292.Up2Date
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.dll
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\refint\prueba app 1.dll
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.pdb
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\prueba app 1.genruntimeconfig.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\prueba app 1\obj\Debug\net10.0\ref\prueba app 1.dll

@@ -4,6 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>prueba_app_1</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

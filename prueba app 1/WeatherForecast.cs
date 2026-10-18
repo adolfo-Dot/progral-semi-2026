@@ -1,4 +1,4 @@
-namespace WebApplication5
+namespace prueba_app_1
 {
     public class WeatherForecast
     {

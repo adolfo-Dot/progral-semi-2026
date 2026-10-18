@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tva3JRUXtIw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ángel Adolfo Jiménez\\OneDrive\\Escritorio\\progral-semi-2026\\prueba app 1\\prueba app 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ángel Adolfo Jiménez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\Ángel Adolfo Jiménez\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
