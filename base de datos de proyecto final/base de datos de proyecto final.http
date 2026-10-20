@@ -1,0 +1,6 @@
+@base_de_datos_de_proyecto_final_HostAddress = http://localhost:5286
+
+GET {{base_de_datos_de_proyecto_final_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

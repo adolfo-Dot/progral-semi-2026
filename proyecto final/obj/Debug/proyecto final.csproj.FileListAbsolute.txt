@@ -1,0 +1,12 @@
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\bin\Debug\BaseDatos.mdf
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\bin\Debug\BaseDatos_log.ldf
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto final.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto_final.Form1.resources
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\proyecto final\obj\Debug\proyecto final.pdb
