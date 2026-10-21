@@ -1,0 +1,13 @@
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\bin\Debug\BaseDatos.mdf
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\bin\Debug\BaseDatos_log.ldf
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\bin\Debug\PARCIAL 2.exe.config
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\bin\Debug\PARCIAL 2.exe
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\bin\Debug\PARCIAL 2.pdb
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.AssemblyReference.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL_2.Properties.Resources.resources
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.GenerateResource.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL 2.csproj.CoreCompileInputs.cache
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL 2.exe
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL 2.pdb
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL_2.frm_usuario.resources
+C:\Users\Ángel Adolfo Jiménez\OneDrive\Escritorio\progral-semi-2026\PARCIAL 2\obj\Debug\PARCIAL_2.login.resources
