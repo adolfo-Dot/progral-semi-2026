@@ -1,0 +1,10 @@
+wwwroot\img\logo.png
+wwwroot\img\logo.webp
+wwwroot\views\alumno.html
+wwwroot\views\app.js
+wwwroot\views\busqueda_alumno.html
+wwwroot\views\index.html
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\PrograI-Semi-2026-webapp\PrograI-Semi-2026-webapp\webapp\webapp\wwwroot\views\app.js
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\PrograI-Semi-2026-webapp\PrograI-Semi-2026-webapp\webapp\webapp\wwwroot\views\alumno.html
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\PrograI-Semi-2026-webapp\PrograI-Semi-2026-webapp\webapp\webapp\wwwroot\views\index.html
+C:\Users\Ángel Adolfo Jiménez\Desktop\progral-semi-2026\PrograI-Semi-2026-webapp\PrograI-Semi-2026-webapp\webapp\webapp\wwwroot\views\busqueda_alumno.html
